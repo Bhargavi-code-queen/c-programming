@@ -1,4 +1,4 @@
-/*Arithematics Opratours Modolus*/
+/*Arithematics Opratours Modoulus*/
 #include<stdio.h>
 
 int main()
