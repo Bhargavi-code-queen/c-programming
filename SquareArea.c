@@ -1,4 +1,4 @@
-/*Code for Area Square */
+/*Code for Calculating Area Square */
 #include<stdio.h>
 
 int main()
