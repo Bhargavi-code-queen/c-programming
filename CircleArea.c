@@ -1,4 +1,4 @@
-/*Code for Circle Area  */
+/*Code for Calculating Circle Area  */
 #include<stdio.h>
 
 int main()
