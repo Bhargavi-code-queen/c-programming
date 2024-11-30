@@ -7,6 +7,8 @@ int main()
     a=24;
     b=35;
     c=a+b;
+    printf("sum is:-");
     printf("%d\n",c);
+    
     return 0;
 }
